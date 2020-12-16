@@ -9,14 +9,11 @@
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
-
         <dependency>
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
             <version>4.3.2</version>
         </dependency>
-
-
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
@@ -26,7 +23,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.18.12</version>
+            <version>1.18.16</version>
             <scope>provided</scope>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.json/json -->
@@ -35,9 +32,5 @@
             <artifactId>json</artifactId>
             <version>20190722</version>
         </dependency>
-
-
     </dependencies>
-
-
 </project>
